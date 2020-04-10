@@ -73,5 +73,4 @@ extension Queue {
             first = queue!.first
         }
     }
-    
 }
