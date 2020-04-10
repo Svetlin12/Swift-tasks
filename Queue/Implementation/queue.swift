@@ -1,9 +1,9 @@
 import Foundation
 
 class Queue {
-    var queue: [Int]?
-    var first: Int?
-    var last: Int?
+    private var queue: [Int]?
+    private var first: Int?
+    private var last: Int?
 }
 
 extension Queue {
